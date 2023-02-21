@@ -49,7 +49,7 @@ running 'ImagesLoader'. Input is a directory of source images & an output locati
 ## Change log
 ***
 
-10/10/2022 - Initial Checkin
+02/21/2023 - Initial Checkin
 
 
 ![Screenshot](https://github.com/ASimmonsSteffen/ImagesLoader2Jpeg/blob/main/Capture.JPG)
